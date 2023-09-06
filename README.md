@@ -17,3 +17,10 @@ This is a short project where the program generates a password with or without s
 
 ## Functions:
 
+## Example use:
+
+```bash
+Enter the length of the password: 16
+Special characters? (yes/no): yes
+Generated Password: 72O0W1!0cIBtGzr6
+```
