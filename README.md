@@ -17,7 +17,7 @@ This is a short project where the program generates a password with or without s
 
 ## Functions:
 
-* The `PasswordGenerator` class in the `PasswordGenerator.java` file provides a single function for generating passwords:
+The `PasswordGenerator` class in the `PasswordGenerator.java` file provides a single function for generating passwords:
 
 * `generatePassword(int length, boolean includeSpecialChars)`
 This function generates a random password based on the specified parameters and returns it as a string.
